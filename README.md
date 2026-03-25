@@ -1,3 +1,11 @@
+---
+title: My File Streamer
+emoji: 🎥
+colorFrom: blue
+colorTo: red
+sdk: docker
+pinned: false
+---
 <h1 align="center">FileStreamBot</h1>
 <p align="center">
   <a href="https://github.com/Avipatilpro/FileStreamBot">
